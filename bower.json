@@ -1,0 +1,18 @@
+{
+  "name": "inuitless-defaults",
+  "version": "0.2.1",
+  "homepage": "https://github.com/inuitless/settings.defaults",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Carlo <nicolascarlo.espeon@gmail.com>"
+  ],
+  "description": "Global, default settings for the inuitcss framework",
+  "main": "settings.defaults.less",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css",
+    "less"
+  ],
+  "license": "Apache"
+}
